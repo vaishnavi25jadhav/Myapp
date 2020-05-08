@@ -1,5 +1,4 @@
 {
-  "homepage": "http://itsMacky.github.io/itsMacky.github.io",
   "name": "corona",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +11,6 @@
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
     "countup": "^1.8.2",
-    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
@@ -41,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
