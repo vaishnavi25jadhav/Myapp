@@ -11,9 +11,9 @@ class Footer extends React.Component{
                     <p className="footer-text"><h2>Team Members:-</h2></p>
                     <p className="footer-text"><h3><ul>
                         <li>Makrand Lokhande (Macky)</li>
-                        <li>Aniket</li>
-                        <li>Surabhi</li>
-                        <li>Vaishnavi</li>
+                        <li>Aniket Shinde</li>
+                        <li>Surabhi Kanade</li>
+                        <li>Vaishnavi Jadhav</li>
                         </ul>
                         </h3>
                     </p>
