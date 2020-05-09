@@ -4,6 +4,9 @@
 
 .card {
     margin: 0 2% !important;
+    margin-bottom: 2% !important;
+    background-color: #0A192F;
+    border-radius: 8px;
 }
 
 .infected {
