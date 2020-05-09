@@ -12,6 +12,7 @@ import breath  from './images/symptoms/breath.png';
 import fir from './images/symptoms/01.png';
 import mask from './images/symptoms/mask.png';
 import so from './images/symptoms/socialdistancing.png';
+import Header from './components/header';
 
 class App extends React.Component {
     state = {
@@ -37,6 +38,7 @@ class App extends React.Component {
         return (
             <div className={styles.container}>
                 <img className={styles.image} src={coronaImage} alt="COVID-19"/>
+                <Header />
                 <CountryPicker  handleCountryChange={this.handleCountryChange}/>
                 <Cards data={data} />
 
