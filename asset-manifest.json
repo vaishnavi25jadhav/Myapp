@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.c7719369.chunk.css",
-    "main.js": "/myapp/static/js/main.84a5a056.chunk.js",
-    "main.js.map": "/myapp/static/js/main.84a5a056.chunk.js.map",
+    "main.css": "/myapp/static/css/main.09a1200e.chunk.css",
+    "main.js": "/myapp/static/js/main.d6430351.chunk.js",
+    "main.js.map": "/myapp/static/js/main.d6430351.chunk.js.map",
     "runtime-main.js": "/myapp/static/js/runtime-main.4271d9e2.js",
     "runtime-main.js.map": "/myapp/static/js/runtime-main.4271d9e2.js.map",
-    "static/js/2.fb6af289.chunk.js": "/myapp/static/js/2.fb6af289.chunk.js",
-    "static/js/2.fb6af289.chunk.js.map": "/myapp/static/js/2.fb6af289.chunk.js.map",
+    "static/js/2.26e60b47.chunk.js": "/myapp/static/js/2.26e60b47.chunk.js",
+    "static/js/2.26e60b47.chunk.js.map": "/myapp/static/js/2.26e60b47.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "precache-manifest.cd4699080b34b242960f8f3f67785e37.js": "/myapp/precache-manifest.cd4699080b34b242960f8f3f67785e37.js",
+    "precache-manifest.aa136931e87e7c3989b62298246b7328.js": "/myapp/precache-manifest.aa136931e87e7c3989b62298246b7328.js",
     "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.c7719369.chunk.css.map": "/myapp/static/css/main.c7719369.chunk.css.map",
-    "static/js/2.fb6af289.chunk.js.LICENSE.txt": "/myapp/static/js/2.fb6af289.chunk.js.LICENSE.txt",
+    "static/css/main.09a1200e.chunk.css.map": "/myapp/static/css/main.09a1200e.chunk.css.map",
+    "static/js/2.26e60b47.chunk.js.LICENSE.txt": "/myapp/static/js/2.26e60b47.chunk.js.LICENSE.txt",
+    "static/media/01.png": "/myapp/static/media/01.140db2f6.png",
+    "static/media/breath.png": "/myapp/static/media/breath.84d98771.png",
+    "static/media/cough.png": "/myapp/static/media/cough.aee6ad09.png",
+    "static/media/fever.png": "/myapp/static/media/fever.cdbbe9ad.png",
+    "static/media/headache.png": "/myapp/static/media/headache.7e1cae8a.png",
+    "static/media/mask.png": "/myapp/static/media/mask.317486d5.png",
+    "static/media/socialdistancing.png": "/myapp/static/media/socialdistancing.503ef5ad.png",
     "static/media/virus.webp": "/myapp/static/media/virus.fa1ecb92.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.4271d9e2.js",
-    "static/js/2.fb6af289.chunk.js",
-    "static/css/main.c7719369.chunk.css",
-    "static/js/main.84a5a056.chunk.js"
+    "static/js/2.26e60b47.chunk.js",
+    "static/css/main.09a1200e.chunk.css",
+    "static/js/main.d6430351.chunk.js"
   ]
 }
